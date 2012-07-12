@@ -1,0 +1,17 @@
+{
+    "name": "angular-headless",
+  , "author": "John Weir <john@famedriver.com>"
+  , "description" : "proof of concept for running Angluar.js via node"
+  , "homepage" : "https://github.com/jweir/angular-headless"
+  , "version": "0.0.1"
+  , "private": false
+  , "dependencies": {
+      "jsdom": "> 0"
+  }
+  , "devDependencies" : {
+    "coffee-script": ">= 0",
+    "mocha": ">= 0",
+    "should" : ">=0",
+    "sinon"  : ">=0"
+  }
+}
